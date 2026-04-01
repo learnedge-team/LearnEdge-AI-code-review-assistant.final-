@@ -2,7 +2,7 @@
 
 **Developed by Shreeyash Asati (ML Engineer)**
 
-🌟 **Live API Endpoint**: [Test the Code Reviewer Here](https://ai-code-review-assistant-n7po.onrender.com/docs#/)  
+🌟 **Live API Endpoint**: [Test the Code Reviewer Here](https://learnedge-ai-code-review-assistant-final.onrender.com/docs#/)  
 📸 **Instagram**: [@learnedge.co.in](https://www.instagram.com/learnedge.co.in)  
 📧 **Contact**: [learnedge.asper@gmail.com](mailto:learnedge.asper@gmail.com)  
 
